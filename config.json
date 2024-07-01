@@ -5,7 +5,7 @@
     {
       "name": "范明明IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "player删Type除": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -35,7 +35,7 @@
     {"key":"Anime1","name":"动漫 | Anime1","type":3,"api":"csp_Anime1","searchable":1},
     {"key":"Voflix","name":"影视 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"ext":"https://www.voflix.vip/"},
     {"key":"Live2Vod","name":"直播 | 电视","type":3,"api":"csp_Live2Vod","searchable":0,"changeable":0,
-     "ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt&&&https://img1.dd.ci/file/08b8a048adf5d333c6030.png"
+     "ext":"南风$https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#yuanzl77$https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt&&&https://img1.dd.ci/file/08b8a048adf5d333c6030.png"
     },
     {"key":"Live2Vod2","name":"直播 | 电视(远程配置版)","type":3,"api":"csp_Live2Vod","ext":"./other/json/live.json","searchable":0,"changeable":0},
     {"key":"Yj1211","name":"直播 | 综合","type":3,"api":"csp_Yj1211","searchable":1,"changeable":0},
@@ -45,13 +45,13 @@
     {"key":"MGTV","name":"影视 | MGTV","type":3,"api":"csp_MGTV","searchable":1},
     {"key":"农民","name":"影视 | 农民","type":3,"api":"csp_NongMing","searchable":1},
 
-    {"key":"drpy_磁力熊","name":"磁力 | 磁力熊[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/磁力熊[磁].js","playerType":1,"timeout":120},
-    {"key":"drpy_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js","playerType":1,"timeout":30},
-    {"key":"drpy_我的哔哩","name":"合集 | 我的哔哩[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
-    {"key":"drpy_厂长","name":"影视 | 厂长[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"},
-    {"key":"drpy_低端","name":"影视 | 低端[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"},
-    {"key":"drpy_两个BT","name":"影视 | 两个BT[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"},
-    {"key":"drpy_怡萱动漫","name":"动漫 | 怡萱[js]","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/怡萱动漫.js"},
+    {"key":"drpy_磁力熊","name":"磁力 | 磁力熊[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/磁力熊[磁].js","playerType":1,"timeout":120},
+    {"key":"drpy_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/荐片.js","playerType":1,"timeout":30},
+    {"key":"drpy_我的哔哩","name":"合集 | 我的哔哩[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/我的哔哩.js"},
+    {"key":"drpy_厂长","name":"影视 | 厂长[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/厂长资源.js"},
+    {"key":"drpy_低端","name":"影视 | 低端[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/ddys.js"},
+    {"key":"drpy_两个BT","name":"影视 | 两个BT[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/两个BT.js"},
+    {"key":"drpy_怡萱动漫","name":"动漫 | 怡萱[js]","type":3,"api":"https://gitee.com/jahom1009/dr_py/raw/main/libs/drpy2.min.js","ext":"https://gitee.com/jahom1009/dr_py/raw/main/js/怡萱动漫.js"},
 
     {"key":"索尼资源","name":"影视 | 索尼资源采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/",
       "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "动画片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"]
@@ -74,27 +74,7 @@
     {"name":"虾米","type":0,"url": "https://jx.xmflv.com/?url="}
   ],
 
-  "rules": [
-    {"name": "量子广告", "hosts": ["vip.lz", "hd.lz", ".cdnlz"], "regex": ["#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","17.2","19.52","18.666667","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-    {"name": "非凡广告", "hosts": ["super.ffzy","vip.ffzy", "hd.ffzy"], "regex": ["25.199999","25.2","25.066667","18","19.766666","#EXT-X-DISCONTINUITY[\\r\\n]+#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "索尼广告", "hosts": ["suonizy"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "暴风广告", "hosts": ["bfzy", "bfbfvip"], "regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
-    {"name": "星星广告", "hosts": ["aws.ulivetv.net"], "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name": "一起看广告", "hosts": ["yqk88"], "regex": ["18.4", "15.1666"]},
-    {"name": "火山嗅探", "hosts": ["huoshan.com"], "regex": ["item_id="]},
-    {"name": "抖音嗅探", "hosts": ["douyin.com"], "regex": ["is_play_url="]},
-    {"name": "农民嗅探", "hosts": ["toutiaovod.com"], "regex": ["video/tos/cn"]}
-  ],
-
   "flags": ["youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "PPTV", "mgtv", "wasu", "bilibili", "xmm", "xigua", "m1905"],
-
-  "doh": [
-    {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-    {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-    {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
-    {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-    {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
-  ],
 
   "ijk":
       [{"group":"软解码","options":
